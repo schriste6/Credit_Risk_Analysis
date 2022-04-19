@@ -1,6 +1,7 @@
 # Credit Risk Analysis
 
-## Overview of the analysis: Use Machine learning to solve the challenge of predicting credit card risk.     
+## Overview of the analysis: 
+   - Use Machine learning to solve the challenge of predicting credit card risk.     
   
 ### Dataset:  
     - LoanStats_2019Q1.csv
@@ -11,7 +12,8 @@
     - Visual Studio
     - Pandas
 
-## Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+## Results: 
+   - Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 ### Naive Random Oversampling: 
     - Balanced Accuracy Score is 67%
     - Precision for High Risk is 1%
@@ -43,4 +45,6 @@
     - Sensitivity or Recall for High Risk is 92%
 ![](/Images/Easy_Ensemble_AdaBoost_Classifier.png)
 
-## Summary: Naive Random Oversampling, SMOTE Oversampling, Undersampling, Combination (Over and Under) Sampling, and Balanced Random Forest Classifier all demonstrated low predictability based on their respective Balanced Accuracy Scores - the precision and Sensitivity/Recall scores supported these results for each of the models.  **Easy Ensemble AdaBoost Classifier** demonstrated a high Balanced Accuracy Score of 93%, and a high Sensitivity/Recall Score of 92%, making it the recommended model.  
+## Summary: 
+   - Naive Random Oversampling, SMOTE Oversampling, Undersampling, Combination (Over and Under) Sampling, and Balanced Random Forest Classifier all demonstrated low predictability based on their respective Balanced Accuracy Scores - the precision and Sensitivity/Recall scores supported these results for each of the models.  
+   -  **Easy Ensemble AdaBoost Classifier** demonstrated a high Balanced Accuracy Score of 93%, and a high Sensitivity/Recall Score of 92%, making it the recommended model.  
